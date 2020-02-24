@@ -4,12 +4,12 @@ layout: default
 
 ![](images/second.jpg)
 
-## Biography
+## About Me
 
 Yang Hong is currently working toward a master’s degree in the School of Mathematical Sciences, University of Science and Technology of China. His research interests include geometric & image processing and 3D modeling.
 
 
-## Research
+## Publications
 
 - Static/Dynamic Filtering for Mesh Geometry Juyong Zhang, Bailin Deng, **Yang Hong**, Yue Peng, Wenjie Qin, Ligang Liu IEEE Transactions on Visualization and Computer Graphics, Vol.25, No.4, pages 1774-1787, 2019.
   
