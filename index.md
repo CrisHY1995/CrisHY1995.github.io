@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-Yang Hong is currently working toward a master’s degree in the School of Mathematical Sciences, University of Science and Technology of China. His research interests include geometric & image processing and 3D modeling.
+Yang Hong is currently working toward a doctor's degree in the School of Mathematical Sciences, University of Science and Technology of China. His research interests include geometric & image processing and 3D human modeling.
 
 
 ## Publications
